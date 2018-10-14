@@ -3,6 +3,6 @@ Second File:
 Begin:
 Second file uploading from master branch.
 Making changes to the second file from local branch.
-Edited file from the master branch.
+Edited file from the master branch-> Making again changes.
 Making second time changes from local.
 End:
